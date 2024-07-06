@@ -11,7 +11,8 @@ This Weather Dashboard web application allows users to check current weather con
 
 ## Screenshots
 
-![Weather Dashboard Screenshot](./screenshots/dashboard.png)
+
+![Screenshot 2024-07-06 112032](https://github.com/Sourav-pixel/Weather_dashboard/assets/84978182/1b3edbdb-e8e1-4384-adf4-fd2dfc65b8ee)
 
 ## Technologies Used
 
